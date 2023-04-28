@@ -1,6 +1,6 @@
 # Code
 
-An overview of our code can be found in [this notebook](notebook.ipynb). The notebook is formatted as a walkthrough of our process, with additional explanations as needed. Feel free to look through it and ask Gabe questions!
+An overview of our code can be found in [this notebook](notebook.ipynb). The notebook is formatted as a walkthrough of our process, with additional explanations as needed. Feel free to look through it and ask Gabe questions on the code!
 
 # Additional Tables
 
